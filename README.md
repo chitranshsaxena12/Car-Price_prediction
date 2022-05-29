@@ -21,7 +21,7 @@ The dataset set contains features like Location, Manufacture details, car featur
           
       
       
-      key technical aspects:  After data exploration and visualization various data prepossing steps are selected after of data. Following are noticeable ones among                                   them.
+      key technical aspects:  After data exploration and visualization various data prepossing steps are selected after of data. Following are noticeable ones among them.
                         1.There is no missing value in data. 
                         2.Name column split into Brand and Model features.
                         3.Fuel_Type, Transmission, 	Seller_Type, and Owner_Type are one-hot encoded.
